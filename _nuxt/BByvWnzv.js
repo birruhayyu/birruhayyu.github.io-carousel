@@ -1,0 +1,1 @@
+import{_ as t,v as o,x as a,t as s}from"./C2E07Lui.js";const n={};function r(l,e){return s(),o("section",null,e[0]||(e[0]=[a("p",null,"This page will be displayed at the /about route.",-1)]))}const u=t(n,[["render",r]]);export{u as default};
